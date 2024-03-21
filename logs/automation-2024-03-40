@@ -1,0 +1,52 @@
+15:36:11.202 [main] INFO  api.tests.GitCRUDTests - **********Deleting User Information**********
+15:36:11.688 [main] INFO  api.tests.GitCRUDTests - *********Status code is verified as 404
+15:37:02.400 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+15:37:05.267 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+15:37:05.268 [main] INFO  api.tests.GitCRUDTests - **********Repository is created**********
+15:37:05.275 [main] INFO  api.tests.GitCRUDTests - **********Deleting User Information**********
+15:37:05.860 [main] INFO  api.tests.GitCRUDTests - *********Status code is verified as 204
+15:37:05.862 [main] INFO  api.tests.GitCRUDTests - *********Body is verified as null
+15:37:05.862 [main] INFO  api.tests.GitCRUDTests - **********User Information is deleted**********
+15:47:47.879 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+15:47:50.586 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+15:48:42.474 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+15:48:45.375 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+15:50:03.836 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+15:50:06.478 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+15:51:01.120 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+15:51:04.340 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+15:51:04.970 [main] INFO  api.tests.GitCRUDTests - **********Name is verified **********
+15:52:04.494 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+15:52:07.310 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+15:52:07.990 [main] INFO  api.tests.GitCRUDTests - **********Name is verified **********
+15:53:58.089 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+15:54:00.874 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+15:54:01.497 [main] INFO  api.tests.GitCRUDTests - **********Name is verified **********
+15:55:23.976 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+15:55:26.682 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+15:55:27.325 [main] INFO  api.tests.GitCRUDTests - **********Name is verified **********
+15:58:07.087 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+15:58:10.017 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+15:58:10.665 [main] INFO  api.tests.GitCRUDTests - **********Name is verified **********
+15:58:53.736 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+15:58:56.602 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+15:58:57.235 [main] INFO  api.tests.GitCRUDTests - **********Name is verified **********
+15:58:57.269 [main] INFO  api.tests.GitCRUDTests - **********Login is verified **********
+15:59:22.893 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+15:59:25.682 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+15:59:26.324 [main] INFO  api.tests.GitCRUDTests - **********Name is verified **********
+15:59:26.352 [main] INFO  api.tests.GitCRUDTests - **********Login is verified **********
+15:59:26.377 [main] INFO  api.tests.GitCRUDTests - **********Type is verified **********
+15:59:26.377 [main] INFO  api.tests.GitCRUDTests - **********Repository is created**********
+09:41:36.249 [main] INFO  api.tests.GitCRUDTests - **********Displaying All Repository Information**********
+09:41:38.365 [main] INFO  api.tests.GitCRUDTests - Verified status code is 200
+09:41:38.365 [main] INFO  api.tests.GitCRUDTests - Verified content type is application/json; charset=utf-8
+09:41:39.074 [main] INFO  api.tests.GitCRUDTests - **********All Repository  Information is displayed**********
+09:41:39.093 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+09:41:40.422 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+09:41:40.437 [main] INFO  api.tests.GitCRUDTests - **********Name is verified **********
+09:41:40.449 [main] INFO  api.tests.GitCRUDTests - **********Login is verified **********
+09:41:40.463 [main] INFO  api.tests.GitCRUDTests - **********Type is verified **********
+09:41:40.464 [main] INFO  api.tests.GitCRUDTests - **********Repository is created**********
+09:41:40.466 [main] INFO  api.tests.GitCRUDTests - **********Displaying Repo Information**********
+09:41:40.730 [main] INFO  api.tests.GitCRUDTests - **********Repo Information is displayed**********

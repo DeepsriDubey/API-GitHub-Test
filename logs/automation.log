@@ -1,0 +1,47 @@
+09:49:30.872 [main] INFO  api.tests.GitCRUDTests - **********Login is verified **********
+09:49:30.888 [main] INFO  api.tests.GitCRUDTests - **********Type is verified **********
+09:49:30.889 [main] INFO  api.tests.GitCRUDTests - **********Repository is created**********
+09:49:30.891 [main] INFO  api.tests.GitCRUDTests - **********Displaying Repo Information**********
+09:49:31.234 [main] INFO  api.tests.GitCRUDTests - **********Repo Information is displayed**********
+09:49:31.244 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository with existing name**********
+09:49:31.481 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 422**********
+09:49:31.512 [main] INFO  api.tests.GitCRUDTests - **********Error msg is verified as : name already exists on this account**********
+09:49:31.512 [main] INFO  api.tests.GitCRUDTests - **********Repository is not created as name already exists**********
+09:49:31.515 [main] INFO  api.tests.GitCRUDTests - **********Deleting User Information**********
+09:49:31.945 [main] INFO  api.tests.GitCRUDTests - *********Status code is verified as 204
+09:49:31.945 [main] INFO  api.tests.GitCRUDTests - *********Body is verified as null
+09:49:31.945 [main] INFO  api.tests.GitCRUDTests - **********User Information is deleted**********
+09:49:31.950 [main] INFO  api.tests.GitCRUDTests - **********Deleting User Information**********
+09:49:32.147 [main] INFO  api.tests.GitCRUDTests - *********Status code is verified as 404
+09:49:32.155 [main] INFO  api.tests.GitCRUDTests - *********Message is verified as :Not found
+09:49:32.155 [main] INFO  api.tests.GitCRUDTests - **********User Information is deleted**********
+09:49:32.156 [main] INFO  api.tests.GitCRUDTests - **********Displaying Repo Information**********
+09:49:32.382 [main] INFO  api.tests.GitCRUDTests - **********Repo Information is displayed**********
+09:49:32.392 [main] INFO  api.tests.GitCRUDTests - **********Updating Repo Name **********
+09:52:45.902 [main] INFO  api.tests.GitCRUDTests - **********Displaying All Repository Information**********
+09:52:47.671 [main] INFO  api.tests.GitCRUDTests - Verified status code is 200
+09:52:47.671 [main] INFO  api.tests.GitCRUDTests - Verified content type is application/json; charset=utf-8
+09:52:48.260 [main] INFO  api.tests.GitCRUDTests - **********All Repository  Information is displayed**********
+09:52:48.275 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+09:52:49.489 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 201**********
+09:52:49.522 [main] INFO  api.tests.GitCRUDTests - **********Name is verified **********
+09:52:49.533 [main] INFO  api.tests.GitCRUDTests - **********Login is verified **********
+09:52:49.543 [main] INFO  api.tests.GitCRUDTests - **********Type is verified **********
+09:52:49.543 [main] INFO  api.tests.GitCRUDTests - **********Repository is created**********
+09:52:49.545 [main] INFO  api.tests.GitCRUDTests - **********Displaying Repo Information**********
+09:52:49.827 [main] INFO  api.tests.GitCRUDTests - **********Repo Information is displayed**********
+09:52:49.831 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository with existing name**********
+09:52:50.076 [main] INFO  api.tests.GitCRUDTests - **********Status code is verified as 422**********
+09:52:50.108 [main] INFO  api.tests.GitCRUDTests - **********Error msg is verified as : name already exists on this account**********
+09:52:50.108 [main] INFO  api.tests.GitCRUDTests - **********Repository is not created as name already exists**********
+09:52:50.110 [main] INFO  api.tests.GitCRUDTests - **********Deleting User Information**********
+09:52:50.501 [main] INFO  api.tests.GitCRUDTests - *********Status code is verified as 204
+09:52:50.502 [main] INFO  api.tests.GitCRUDTests - *********Body is verified as null
+09:52:50.502 [main] INFO  api.tests.GitCRUDTests - **********User Information is deleted**********
+09:52:50.509 [main] INFO  api.tests.GitCRUDTests - **********Deleting User Information**********
+09:52:50.730 [main] INFO  api.tests.GitCRUDTests - *********Status code is verified as 404
+09:52:50.745 [main] INFO  api.tests.GitCRUDTests - *********Message is verified as :Not found
+09:52:50.745 [main] INFO  api.tests.GitCRUDTests - **********User Information is deleted**********
+09:52:50.749 [main] INFO  api.tests.GitCRUDTests - **********Displaying Repo Information**********
+09:52:50.931 [main] INFO  api.tests.GitCRUDTests - **********Repo Information is displayed**********
+09:52:50.934 [main] INFO  api.tests.GitCRUDTests - **********Updating Repo Name **********

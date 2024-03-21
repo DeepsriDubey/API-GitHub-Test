@@ -1,0 +1,51 @@
+03:37:52.123 [main] INFO  api.tests.GitCRUDTests - **********Displaying All Repository Information**********
+03:37:53.765 [main] INFO  api.tests.GitCRUDTests - Verified status code is 200
+03:37:53.765 [main] INFO  api.tests.GitCRUDTests - Verified content type is application/json; charset=utf-8
+03:37:54.253 [main] INFO  api.tests.GitCRUDTests - **********All Repository  Information is displayed**********
+03:37:54.264 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+03:37:55.304 [main] INFO  api.tests.GitCRUDTests - **********Repository is created**********
+03:37:55.308 [main] INFO  api.tests.GitCRUDTests - **********Displaying Repo Information**********
+03:37:55.604 [main] INFO  api.tests.GitCRUDTests - **********Repo Information is displayed**********
+03:37:55.607 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository with existing name**********
+03:37:55.877 [main] INFO  api.tests.GitCRUDTests - **********Repository is not created as name already exists**********
+03:37:55.882 [main] INFO  api.tests.GitCRUDTests - **********Deleting User Information**********
+03:37:56.299 [main] INFO  api.tests.GitCRUDTests - **********User Information is deleted**********
+03:37:56.301 [main] INFO  api.tests.GitCRUDTests - **********Deleting User Information**********
+03:37:56.505 [main] INFO  api.tests.GitCRUDTests - **********User Information is deleted**********
+03:37:56.508 [main] INFO  api.tests.GitCRUDTests - **********Displaying Repo Information**********
+03:37:56.722 [main] INFO  api.tests.GitCRUDTests - **********Repo Information is displayed**********
+03:37:56.727 [main] INFO  api.tests.GitCRUDTests - **********Updating Repo Name **********
+10:49:04.781 [main] INFO  api.tests.GitCRUDTests - **********Displaying All Repository Information**********
+10:49:06.214 [main] INFO  api.tests.GitCRUDTests - Verified status code is 200
+10:49:06.214 [main] INFO  api.tests.GitCRUDTests - Verified content type is application/json; charset=utf-8
+10:49:06.687 [main] INFO  api.tests.GitCRUDTests - **********All Repository  Information is displayed**********
+10:49:06.700 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+10:49:07.784 [main] INFO  api.tests.GitCRUDTests - **********Repository is created**********
+10:49:07.786 [main] INFO  api.tests.GitCRUDTests - **********Displaying Repo Information**********
+10:49:08.030 [main] INFO  api.tests.GitCRUDTests - **********Repo Information is displayed**********
+10:49:08.033 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository with existing name**********
+10:49:08.311 [main] INFO  api.tests.GitCRUDTests - **********Repository is not created as name already exists**********
+10:49:08.315 [main] INFO  api.tests.GitCRUDTests - **********Deleting User Information**********
+10:49:08.671 [main] INFO  api.tests.GitCRUDTests - **********User Information is deleted**********
+10:49:08.674 [main] INFO  api.tests.GitCRUDTests - **********Deleting User Information**********
+10:49:08.862 [main] INFO  api.tests.GitCRUDTests - **********User Information is deleted**********
+10:49:08.866 [main] INFO  api.tests.GitCRUDTests - **********Displaying Repo Information**********
+10:49:09.072 [main] INFO  api.tests.GitCRUDTests - **********Repo Information is displayed**********
+10:49:09.075 [main] INFO  api.tests.GitCRUDTests - **********Updating Repo Name **********
+12:57:08.869 [main] INFO  api.tests.GitCRUDTests - **********Updating Repo Name **********
+13:00:28.029 [main] INFO  api.tests.GitCRUDTests - **********Updating Repo Name **********
+13:12:00.614 [main] INFO  api.tests.GitCRUDTests - **********Displaying All Repository Information**********
+13:12:02.241 [main] INFO  api.tests.GitCRUDTests - Verified status code is 200
+13:12:02.241 [main] INFO  api.tests.GitCRUDTests - Verified content type is application/json; charset=utf-8
+13:12:02.828 [main] INFO  api.tests.GitCRUDTests - **********All Repository  Information is displayed**********
+14:22:48.565 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+14:22:50.886 [main] INFO  api.tests.GitCRUDTests - **********Repository is created**********
+14:22:50.892 [main] INFO  api.tests.GitCRUDTests - **********Updating Repo Name **********
+14:24:56.010 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+14:24:58.266 [main] INFO  api.tests.GitCRUDTests - **********Repository is created**********
+14:24:58.273 [main] INFO  api.tests.GitCRUDTests - **********Updating Repo Name **********
+14:38:53.843 [main] INFO  api.tests.GitCRUDTests - **********Creating new repository**********
+14:38:56.115 [main] INFO  api.tests.GitCRUDTests - **********Repository is created**********
+14:38:56.124 [main] INFO  api.tests.GitCRUDTests - **********Updating Repo Name **********
+14:46:33.001 [main] INFO  api.tests.GitCRUDTests - **********Updating Repo Name **********
+14:46:34.978 [main] INFO  api.tests.GitCRUDTests - **********Repo Information is updated**********
